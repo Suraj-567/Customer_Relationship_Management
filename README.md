@@ -19,24 +19,6 @@ A comprehensive **Customer Relationship Management (CRM)** application built wit
 
 This repository contains the source code and documentation for the Customer Relationship Management project, developed as part of the **UE23CS341A** course at **PES University**.
 
----
-
-## 🧑‍💻 Development Team (Alchemist)
-
-| Role | Member |
-|------|--------|
-| **Scrum Master** | [@shreyasgshetty](https://github.com/shreyasgshetty) |
-| **Developer** | [@skandaks](https://github.com/skandaks) |
-| **Developer** | [@Suraj-567](https://github.com/Suraj-567) |
-| **Developer** | [@pes1ug23cs600](https://github.com/pes1ug23cs600) |
-
-## 👨‍🏫 Teaching Assistant
-
-- [@amritaak06](https://github.com/amritaak06)
-
-## 👨‍⚖️ Faculty Supervisor
-
-- [@mhradhika](https://github.com/mhradhika)
 
 ---
 
@@ -732,6 +714,4 @@ For questions or issues, please:
 
 ---
 
-<div align="center">
-  <i>Made with ❤️ by the Alchemist Team</i>
-</div>
+
