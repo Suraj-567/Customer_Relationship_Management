@@ -1,23 +1,10 @@
 # Customer Relationship Management System (CRM)
 
-
-
-**Project ID:** P08  
-**Course:** UE23CS341A  
-**Academic Year:** 2025  
-**Semester:** 5th Sem  
-**Campus:** RR Campus  
-**Branch:** CSE  
-**Section:** J  
-**Team:** Alchemist
-
----
+-
 
 ## 📋 Project Description
 
 A comprehensive **Customer Relationship Management (CRM)** application built with modern web technologies. This CRM system helps businesses manage customers, employees, tickets, and company information efficiently.
-
-This repository contains the source code and documentation for the Customer Relationship Management project, developed as part of the **UE23CS341A** course at **PES University**.
 
 
 ---
